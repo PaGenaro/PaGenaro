@@ -1,7 +1,5 @@
 ## Olá sou Paloma Genaro
 
- "NÃO SEI MEXER AQUI AINDA"
-
 - 👋 Estudante de Analise e Desenvolvimento de Sistemas 2/5
 - 👀 ...
 - 🌱 Iniciante
