@@ -1,5 +1,6 @@
 ## Olá sou Paloma Genaro
-     Trainee | Badico Cloud
+
+      Trainee Badico Cloud
   🌱 Iniciante em tecnologia
 - 👋 Estudante de Analise e Desenvolvimento de Sistemas 2/5
 - 👀 Estudante de Front-end na Vai na Web
